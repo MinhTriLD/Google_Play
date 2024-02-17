@@ -13,11 +13,11 @@
 ####  2.  Categorical features
 ####  3.  Numerical features
 ### IV.  <b><u>Machine Learning
-####  1.  Classification:
-          #####   - Logistic Regression
-          #####   - Decision Tree Classifier
-####  2.  Regression:
-          #####   - Random Forest Regressor
-          #####   - SVM
-          #####   - Linear Regression
+####  1.  <b><u>Which initial technical specifications afftect to favor (rating) and popularity (installing)? </u>-Classification</b>
+             - Logistic Regression
+             - Decision Tree Classifier
+####  2.  <b><u>How initial technical specifications afftect to favor (rating) and popularity (installing)? </u>-Regression</b>
+             - Random Forest Regressor
+             - SVM
+             - Linear Regression
 
